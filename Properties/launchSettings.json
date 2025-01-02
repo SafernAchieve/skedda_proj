@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "skedda_proj": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7170",
+      "launchBrowser": false
+    }
+  }
+}
